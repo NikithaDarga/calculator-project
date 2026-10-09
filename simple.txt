@@ -1,2 +1,0 @@
-"Devops is used in software development".
-"It is a continuous life cycle".
